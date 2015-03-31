@@ -7,3 +7,5 @@ _This little guy here playfully shows you whether something blocks his view or n
 
 An ultrasonic sensor was used to determine whether something was in front of our object or not. The end result was a cute little head with the flip-dot as his mouth with two options: smile or mouth-opened. The sensors were used as his eyes.
 If someone now blocks his view with hands or something different, he will then open his mouth making a surprised expression.
+
+https://vimeo.com/123774615
